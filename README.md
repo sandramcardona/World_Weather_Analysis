@@ -23,8 +23,7 @@ Create a Pandas DataFrame with 2000 world's unique cities and their weather data
 Pandas DataFrame was successfully created and the Travel map directions and the map markers were able to be created using the dataframe. 
 
 #### Intinerary List
-![alt text]
-(https://github.com/sandramcardona/World_Weather_Analysis/blob/main/Vacation_Intinerary/Vacation_Intinerary/Travel_intinerary.png)
+![alt text](https://github.com/sandramcardona/World_Weather_Analysis/blob/main/Vacation_Intinerary/Vacation_Intinerary/WeatherPy_Travel_intinerary.png)
 
 #### Intinerary Travel Map
 ![alt text](https://github.com/sandramcardona/World_Weather_Analysis/blob/main/Vacation_Intinerary/Vacation_Intinerary/WeatherPy_travel_map.png)
